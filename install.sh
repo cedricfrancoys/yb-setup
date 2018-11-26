@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This script must be run with root privileges
-#
+# and expects to be run under ~
 #
 
 # Define constants for using some colors
